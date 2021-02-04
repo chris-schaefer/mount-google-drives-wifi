@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=mount-gdrives
+Type=Application
+Exec=~/.gdfuse/mount-gdrives.sh
+Comment=Mount Google shared drives
+X-GNOME-Autostart-enabled=true
